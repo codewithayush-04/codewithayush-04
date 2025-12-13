@@ -1,7 +1,13 @@
 # 👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+modern%2C+interactive+web+experiences;React.js+%7C+Next.js+Developer;Clean+UI+%7C+User-Focused+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;React.js+%7C+Next.js+Enthusiast;Code+%7C+Music+%7C+Travel;Building+Modern+Web+Experiences" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/laptop-coding.png" />
+  <img src="https://img.icons8.com/color/96/music--v1.png" />
+  <img src="https://img.icons8.com/color/96/beach.png" />
 </p>
 
 ---
@@ -13,10 +19,11 @@
 </p>
 
 - 🚀 Frontend Web Developer working with **React.js & Next.js**
-- 🎨 Passionate about **clean, responsive & interactive UIs**
-- 🤖 Exploring **AI tools & APIs** for smarter frontend experiences
-- 🌐 Interested in **Creative Coding, WebGL & modern frontend trends**
-- 📚 Constantly learning through **real-world projects**
+- 🎨 Love building **clean, responsive & interactive UIs**
+- 🤖 Exploring **AI tools & APIs** for smarter frontend apps
+- 🌐 Interested in **Creative Coding, WebGL & modern web trends**
+- 🎧 Coding with music & exploring new places ✈️
+- 📚 Consistent learner through **real-world projects**
 
 ---
 
@@ -58,12 +65,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </p>
 
 ---
@@ -76,19 +90,18 @@
 
 - 🏅 Built multiple **real-world frontend projects**
 - 🏅 Strong foundation in **core web technologies**
-- 🏅 Consistent learner with a **growth mindset**
+- 🏅 Growth-oriented & consistent learner
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
 </p>
-
