@@ -4,25 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;React.js+%7C+Next.js+Enthusiast;Code+%7C+Music+%7C+Travel;Building+Modern+Web+Experiences" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/laptop-coding.png" />
-  <img src="https://img.icons8.com/color/96/music--v1.png" />
-  <img src="https://img.icons8.com/color/96/beach.png" />
-</p>
-
 ---
 
 ## 💡 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-21b23a4c-6f47-4c3c-b9b7-3a1a9b5c2f9e.gif" width="420" />
+  <img src="assets/music-life-coder.jpg" alt="Coder Music Life" width="750" />
 </p>
 
 - 🚀 Frontend Web Developer working with **React.js & Next.js**
 - 🎨 Love building **clean, responsive & interactive UIs**
 - 🤖 Exploring **AI tools & APIs** for smarter frontend apps
 - 🌐 Interested in **Creative Coding, WebGL & modern web trends**
-- 🎧 Coding with music & exploring new places ✈️
+- 🎧 Coding with music & ✈️ traveling for inspiration
 - 📚 Consistent learner through **real-world projects**
 
 ---
@@ -74,34 +68,3 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="90" />
-</p>
-
-- 🏅 Built multiple **real-world frontend projects**
-- 🏅 Strong foundation in **core web technologies**
-- 🏅 Growth-oriented & consistent learner
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
-</p>
