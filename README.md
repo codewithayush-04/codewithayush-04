@@ -9,7 +9,9 @@
 ## 💡 About Me
 
 <p align="center">
-  <img src="assets/music-life-coder.jpg" alt="Coder Music Life" width="750" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/music-life-coder.jpg"
+       alt="Coder Music Life"
+       width="750" />
 </p>
 
 - 🚀 Frontend Web Developer working with **React.js & Next.js**
