@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;React.js+%7C+Next.js+Enthusiast;Code+%7C+Music+%7C+Travel;Building+Modern+Web+Experiences" />
+  <img src=https://github.com/codewithayush-04/empyreanFinal/blob/889f1994382e1a789e7b25c85884f935ee5fcdc8/images.jpegfont=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;React.js+%7C+Next.js+Enthusiast;Code+%7C+Music+%7C+Travel;Building+Modern+Web+Experiences" />
 </p>
 
 ---
