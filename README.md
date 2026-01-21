@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
 # 💫 About Me:
-		👋 Ayush Gupta — Aspiring MERN Stack Developer<br>	
+	👋 Ayush Gupta — Aspiring MERN Stack Developer<br>	
 	💻 Skilled in MongoDB, Express.js, React.js, Node.js<br>	
 	🎨 Frontend development with React, HTML, CSS, JavaScript<br>	
 	⚙️ Backend development using Node.js & Express.js<br>		
