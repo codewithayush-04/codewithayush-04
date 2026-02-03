@@ -23,4 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codewithayush-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![codewithayush-04-space-shooter](https://github.com/user-attachments/assets/0ce91ac1-650a-4c78-80ec-8d3360390fec)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
