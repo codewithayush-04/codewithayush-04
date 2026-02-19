@@ -8,6 +8,7 @@
 	🗄️ Database management with MongoDB
 	🚀 Focused on building scalable, real-world web applications
 	📚 Continuously learning and improving through projects and practice
+	♊️ Continue the new AI languages and Pursuing towards NEXT.Js 
 
 
 ## 🌐 Socials:
