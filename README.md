@@ -3,7 +3,7 @@
  💫 About Me:
 
 	👋 Ayush Gupta — Aspiring MERN Stack Developer.
-	💻 Skilled in MongoDB, Express.js, React.js, Node.js
+	💻 Skilled in MongoDB, Express.js, React.js, Node.js,Nextjs
 	🎨 Frontend development with React, HTML, CSS, JavaScript	
 	⚙️ Backend development using Node.js & Express.js		
 	🗄️ Database management with MongoDB
