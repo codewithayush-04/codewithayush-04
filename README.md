@@ -1,7 +1,9 @@
  👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
 
 
-![_](https://github.com/user-attachments/assets/2e8e4291-79d5-4c13-a042-f9994bb1cf39)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e8e4291-79d5-4c13-a042-f9994bb1cf39" width="300"/>
+</p>
 
  
  💫 About Me:
