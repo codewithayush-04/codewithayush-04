@@ -1,6 +1,8 @@
  👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
-	 my portfolio : 👾
-	https://minecraft-portfolio-mu.vercel.app/
+🚀 Check out my portfolio:  
+🔗 https://minecraft-portfolio-mu.vercel.app/
+
+Built with passion for web development, showcasing my projects and skills.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e60bbb-c249-4b88-b6d6-a5d08ee12952"
