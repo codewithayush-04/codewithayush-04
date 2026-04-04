@@ -2,7 +2,6 @@
 
 
 
- 
 🚀 Check out my portfolio:  
 🔗 https://minecraft-portfolio-mu.vercel.app/
 
