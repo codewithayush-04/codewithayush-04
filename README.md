@@ -3,7 +3,7 @@
 
 
 🚀 Check out my portfolio:  
-🔗https://ayushhgupta04.vercel.app/
+🔗https://minecraft-portfolio-mu.vercel.app/
 
 Built with passion for web development, showcasing my projects and skills.
 
