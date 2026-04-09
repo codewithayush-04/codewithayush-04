@@ -8,6 +8,7 @@
 Built with passion for web development, showcasing my projects and skills.
 
 ![Portfolio Banner](https://github.com/user-attachments/assets/3e1ecf47-53e6-4816-a2ab-f61d719cb043)
+
  💫 About Me:
 
 	👋 Ayush Gupta — Aspiring MERN Stack Developer.
