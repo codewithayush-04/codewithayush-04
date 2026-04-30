@@ -6,7 +6,7 @@
 
 🔗https://minecraft-portfolio-mu.vercel.app/
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithayush-04/&show_icons=true&theme=tokyonight)
 Built with passion for web development, showcasing my projects and skills.
 
 
