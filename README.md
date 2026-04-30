@@ -1,7 +1,6 @@
  👋 Hi, I’m Ayush Gupta | Frontend Web Developer 🇮🇳
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithayush-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 🚀 Check out my (minecraft edition)portfolio: 
 
 🔗https://minecraft-portfolio-mu.vercel.app/
