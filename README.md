@@ -5,7 +5,8 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="banner" width="100%">
+  <img src="6e9ed557cbe10ef0292ac340e14b0024" src="https://github.com/user-attachments/assets/a0597965-0540-43fb-bb31-d4fee85a2ee0"<img width="736" height="414"/>
+
 </p>
 
 ---
@@ -24,7 +25,7 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-363a45325">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -69,14 +70,6 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codewithayush-04&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -99,5 +92,5 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/YOUR_USERNAME">Ayush Gupta</a>
+⭐ From <a href="https://github.com/codewithayush-04">Ayush Gupta</a>
 </p>
