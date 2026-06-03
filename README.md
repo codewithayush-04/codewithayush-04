@@ -5,7 +5,7 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
 <p align="center">
- <img width="736" height="414" alt="6e9ed557cbe10ef0292ac340e14b0024" src="https://github.com/user-attachments/assets/47bdc481-01ed-4c9e-8ddc-8a883dcd9b49" />
+ <img width="706" height="314" alt="6e9ed557cbe10ef0292ac340e14b0024" src="https://github.com/user-attachments/assets/47bdc481-01ed-4c9e-8ddc-8a883dcd9b49" />
 
 
 </p>
@@ -38,6 +38,11 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -64,10 +69,6 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 ---
 
 # 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayush-04&theme=tokyonight" />
-</p>
 
 ---
 
