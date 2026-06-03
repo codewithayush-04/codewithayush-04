@@ -54,12 +54,6 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 
 </p>
 
----## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -67,6 +61,11 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 # 🚀 Featured Projects
 
