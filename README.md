@@ -58,7 +58,7 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 ---
 
 # 🚀 Featured Projects
-<p align="center"><img width="1197" height="312" alt="dd09dd73029bc8b90a8a9bd569c74d10" src="https://github.com/user-attachments/assets/4cb20686-8225-4b08-a2d2-b1d998dba8af" />
+<p align="center">
 
 | Project | Description |
 |----------|------------|
@@ -68,7 +68,7 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 |JavaScript browser game |
 
 <p align="center">
- <img width="736" height="178" alt="79eb6eae225e24e1194ce1b57889ce92" src="https://github.com/user-attachments/assets/eb2c969a-d0e4-413b-9b4e-05eeefe36627" />
+<img width="1170" height="238" alt="b0b4739492541106910807351de0a21e" src="https://github.com/user-attachments/assets/3fb762a6-b591-49c2-a458-1caa70cc0878" />
 
 
 <p align="center">
