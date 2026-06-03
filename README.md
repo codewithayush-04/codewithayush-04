@@ -54,23 +54,11 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 
 </p>
 
----
-
-# 📊 GitHub Stats
+---## 🐍 Contribution Snake
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithayush-04&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayush-04&layout=compact&theme=tokyonight"/>
-
+  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-# 🔥 GitHub Streak
-
----
 
 # 📈 Contribution Graph
 
