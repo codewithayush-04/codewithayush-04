@@ -56,9 +56,6 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg)
 
 # 🚀 Featured Projects
 
@@ -69,9 +66,8 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 | Portfolio Website | Personal portfolio |
 |JavaScript browser game |
 
----
+<img width="736" height="178" alt="79eb6eae225e24e1194ce1b57889ce92" src="https://github.com/user-attachments/assets/eb2c969a-d0e4-413b-9b4e-05eeefe36627" />
 
----
 
 <p align="center">
 ⭐ From <a href="https://github.com/codewithayush-04">Ayush Gupta</a>
