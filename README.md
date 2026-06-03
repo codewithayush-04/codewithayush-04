@@ -56,10 +56,10 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 🚀 Space Shooter Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/space-shooter-contributions.svg" />
 </p>
 
 # 🚀 Featured Projects
