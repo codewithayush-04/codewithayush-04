@@ -38,11 +38,6 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithayush-04/codewithayush-04/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
