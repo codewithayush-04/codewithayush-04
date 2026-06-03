@@ -5,7 +5,8 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="6e9ed557cbe10ef0292ac340e14b0024" src="https://github.com/user-attachments/assets/a0597965-0540-43fb-bb31-d4fee85a2ee0"<img width="736" height="414"/>
+ <img width="736" height="414" alt="6e9ed557cbe10ef0292ac340e14b0024" src="https://github.com/user-attachments/assets/47bdc481-01ed-4c9e-8ddc-8a883dcd9b49" />
+
 
 </p>
 
