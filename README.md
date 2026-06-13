@@ -4,8 +4,6 @@
 Full Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
-<img width="1197" height="312" alt="dd09dd73029bc8b90a8a9bd569c74d10" src="https://github.com/user-attachments/assets/6c2196e7-69fe-442d-ae1c-ddf42b8ff4c4" />
-
 
 
 </p>
