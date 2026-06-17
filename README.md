@@ -63,7 +63,7 @@ Full Stack Developer | Problem Solver | Tech Enthusiast
 | Gram Seva Healthcare | Healthcare platform for rural communities |
 | Amazon Clone | Frontend clone using HTML & CSS |
 | Portfolio Website | Personal portfolio |
-|JavaScript browser game |
+
 
 <p align="center">
 <img width="1170" height="238" alt="b0b4739492541106910807351de0a21e" src="https://github.com/user-attachments/assets/3fb762a6-b591-49c2-a458-1caa70cc0878" />
