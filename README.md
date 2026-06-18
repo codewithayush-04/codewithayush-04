@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Kumar
+# Hi 👋, I'm Ayush Kumar Gupta
 
 ### 🚀 MERN Stack Developer | Full Stack Web Developer | Open Source Enthusiast
 
@@ -161,10 +161,17 @@ while (!success) {
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/? https://ayushin.vercel.app/&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://ayushin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ayushin.vercel.app/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=codewithayush-04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
 </p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Let's build something amazing together 🚀
 </h3>
-visit my developer profile https://ayushin.vercel.app/
