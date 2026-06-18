@@ -2,9 +2,6 @@
 
 ### 🚀 MERN Stack Developer | Full Stack Web Developer | Open Source Enthusiast
 
-<img width="821" height="171" alt="Screenshot 2026-06-18 at 12 16 29 PM" src="https://github.com/user-attachments/assets/1782fbe0-01b2-431c-9ed5-2129dfec3934" />
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=700&height=50&duration=4000&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
@@ -159,6 +156,8 @@ while (!success) {
 ```
 
 ---
+<img width="821" height="171" alt="Screenshot 2026-06-18 at 12 16 29 PM" src="https://github.com/user-attachments/assets/1782fbe0-01b2-431c-9ed5-2129dfec3934" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithayush-04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
