@@ -161,7 +161,7 @@ while (!success) {
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithayush-04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/? https://ayushin.vercel.app/&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <h3 align="center">
