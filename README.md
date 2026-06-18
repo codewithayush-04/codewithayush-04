@@ -156,6 +156,7 @@ while (!success) {
 ```
 
 ---
+<p align ="center">
 <img width="821" height="171" alt="Screenshot 2026-06-18 at 12 16 29 PM" src="https://github.com/user-attachments/assets/1782fbe0-01b2-431c-9ed5-2129dfec3934" />
 
 
