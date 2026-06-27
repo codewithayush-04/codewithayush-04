@@ -2,6 +2,7 @@
 
 ## 🚀 MERN Stack Developer | Full Stack Web Developer | Open Source Enthusiast
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=700&height=50&duration=4000&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
