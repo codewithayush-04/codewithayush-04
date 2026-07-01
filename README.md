@@ -102,7 +102,7 @@ const ayush = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayush-04&theme=tokyonight&hide_border=true" />
 </p>
 
-```
+
 ## 🚀 Featured Projects
 
 ### 🤖 Study AI
@@ -121,7 +121,7 @@ Secure password generator with customizable options and clean interface.
 Luxury watch website clone inspired by Jacob & Co with modern frontend technologies.
 
 ---
-```
+
 ## 🎯 2026 Goals
 
 - 🚀 Master Advanced Next.js
@@ -144,17 +144,6 @@ Supabase      ███████████████░░░░░ 75%
 ```
 
 ---
-
-## ⚡ Fun Fact
-
-```javascript
-while (!success) {
-   learn();
-   build();
-   improve();
-   repeat();
-}
-```
 
 ---
 <p align ="center">
