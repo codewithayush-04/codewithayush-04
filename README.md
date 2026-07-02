@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Kumar Gupta (IN)
+# Hi 👋, I'm Ayush Kumar Gupta 
  
 ## 🚀 MERN Stack Developer | Full Stack Web Developer | Open Source Enthusiast
 
